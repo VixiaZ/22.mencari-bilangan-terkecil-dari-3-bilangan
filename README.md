@@ -1,0 +1,1 @@
+# 22.mencari-bilangan-terkecil-dari-3-bilangan
